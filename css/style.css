@@ -1,0 +1,82 @@
+html { 
+	overflow-x: hidden; 
+	height: 100%;  
+	-webkit-user-select: none; 
+	-khtml-user-select: none; 
+	-moz-user-select: none; 
+	-o-user-select: none; 
+	user-select: none;
+}
+
+#id1 {
+	position: absolute;
+	color: #f00;
+	margin-left: 20px; 
+	margin-top: 820px;
+}
+#id2 { 
+	position: absolute;
+	color: #000;
+	margin-left: 20px; 
+	margin-top: 840px; 
+}
+#id3 { 
+	position: absolute;
+	color: #000;
+	margin-left: 20px; 
+	margin-top: 860px;
+}
+#id4 { 
+	position: absolute;
+	color: #000;
+	margin-left: 20px; 
+	margin-top: 900px;
+}
+#id5 { 
+	position: absolute;
+	color: #000;
+	margin-left: 20px; 
+	margin-top: 920px;
+}
+#id6 { 
+	position: absolute;
+	color: #000;
+	margin-left: 20px; 
+	margin-top: 940px;
+}
+#id7 { 
+	position: absolute;
+	color: #000;
+	margin-left: 1220px; 
+	margin-top: 20px; 
+}
+#id8 { 
+	position: absolute;
+	color: #000;
+	margin-left: 1220px; 
+	margin-top: 40px; 
+} 
+#id9 { 
+	position: absolute;
+	color: #000;
+	margin-left: 1220px; 
+	margin-top: 60px; 
+} 
+#id10 { 
+	position: absolute;
+	color: #000;
+	margin-left: 1220px; 
+	margin-top: 80px; 
+} 
+#id11 { 
+	position: absolute;
+	color: #000;
+	margin-left: 1220px; 
+	margin-top: 100px; 
+}
+#id12 { 
+	position: absolute;
+	color: #000;
+	margin-left: 1220px; 
+	margin-top: 120px; 
+}
